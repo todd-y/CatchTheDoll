@@ -2,7 +2,7 @@
 	"DefaultValues": {
 
 		"interstitials_time": 60,
-		"banner_enable": false,
+		"banner_enable": true,
 
 		"AB_test_users": 0
 	},
